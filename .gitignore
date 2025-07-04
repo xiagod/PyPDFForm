@@ -12,3 +12,10 @@ dist/
 *.egg-info/
 .aider*
 .DS_store
+.env
+bin/
+include/
+lib/
+lib64/
+share/
+pyenv.cfg
